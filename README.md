@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 I’m currently working on myslef.
+ 🔭 I’m currently working on myself.
  
- 🐝  crafting what I have learnt. 
+ 🐝  crafting what I have lernt. 
  
  ⚡ fun fact: I am INTJ-T, whatever that means 😅
  
