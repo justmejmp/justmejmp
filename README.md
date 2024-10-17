@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
  ⚡ fun fact: I am INTJ-T, whatever that means 😅
  
- 
+<!-- 
  <dic align ="center">
  <h2>My contribution</h2>
  <br><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/justmejmp/justmejmp/output/github-contribution-grid-snake.svg"/>
