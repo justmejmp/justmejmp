@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  🔭 I’m currently working on myself.
  
- 🐝  crafting what I have lernt. 
+ 🐝  crafting what I have learnt. 
  
  ⚡ fun fact: I am INTJ-T, whatever that means 😅
  
