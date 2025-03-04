@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
  🐝  crafting what I have learnt. 
  
- ⚡ fun fact: I am INTJ-T, whatever that means 😅
+ ⚡ quizz:  You have three incorrectly labeled boxes: one with apples, one with oranges, and one with a mix of both. You can take out one fruit. How can you correctly label all the boxes? 
  
 <!-- 
  <dic align ="center">
